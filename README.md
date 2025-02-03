@@ -29,6 +29,9 @@ pip install opencv-python numpy jupyter
 3. Run the cells step by step to process the input images or video.
 4. View the detected lanes on the processed output.
 
+## 🖼 Output Example
+![Lane Detection Output](output.png)
+
 ## 🔜 Future Improvements
 - ✅ Improved lane detection for curved roads.
 - 🧠 Integration with deep learning models for better accuracy.
